@@ -1,0 +1,10 @@
+{
+    "directives": [
+         "ENABLE_COMPACTUI" 
+    ],
+     "platforms": {
+        "Android": [
+             "ENABLE_COMPACTUI" 
+        ]
+    }
+}
